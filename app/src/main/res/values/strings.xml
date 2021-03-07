@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Your Geek News</string>
+    <string name="home">Home</string>
+    <string name="fav">Favorite</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">news</string>
+    <string name="tgl">xx/xx/xxxx</string>
+    <string name="image">image</string>
+    <string name="sample_text">this content for detail</string>
+    <string name="menu_favorite">menu favorite</string>
+    <string name="text_subtitle">this news</string>
+    <string name="author">author</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
